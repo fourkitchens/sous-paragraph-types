@@ -12,6 +12,8 @@
     ],
     "minimum-stability": "dev",
     "require": {
+        "fourkitchens/sous-formats": "dev-main",
+        "fourkitchens/sous-media": "dev-main",
         "drupal/paragraphs": "^1.12",
         "drupal/paragraphs_collapsible": "^1.2",
         "drupal/paragraphs_ee": "^2.1"
